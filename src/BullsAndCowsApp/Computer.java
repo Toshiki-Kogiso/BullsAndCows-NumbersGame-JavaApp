@@ -1,7 +1,6 @@
 package BullsAndCowsApp;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 
 // An class extending player for the computer.
 public abstract class Computer extends Player {
